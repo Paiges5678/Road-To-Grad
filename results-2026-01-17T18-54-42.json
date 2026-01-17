@@ -1,0 +1,368 @@
+[
+  {
+    "semester": "Fall",
+    "class_name": "ITI 1120",
+    "specialization_or_minor_1": "ITI 1120",
+    "specialization_or_minor_2": "ITI 1120"
+  },
+  {
+    "semester": "Fall",
+    "class_name": "MAT 1320",
+    "specialization_or_minor_1": "MAT 1320",
+    "specialization_or_minor_2": "MAT 1320"
+  },
+  {
+    "semester": "Fall",
+    "class_name": "MAT 1341",
+    "specialization_or_minor_1": "MAT 1341",
+    "specialization_or_minor_2": "MAT 1341"
+  },
+  {
+    "semester": "Fall",
+    "class_name": "Elective",
+    "specialization_or_minor_1": "Elective",
+    "specialization_or_minor_2": "Elective"
+  },
+  {
+    "semester": "Winter",
+    "class_name": "ITI 1100",
+    "specialization_or_minor_1": "ITI 1100",
+    "specialization_or_minor_2": "ITI 1100"
+  },
+  {
+    "semester": "Winter",
+    "class_name": "ITI 1121",
+    "specialization_or_minor_1": "ITI 1121",
+    "specialization_or_minor_2": "ITI 1121"
+  },
+  {
+    "semester": "Winter",
+    "class_name": "MAT 1322",
+    "specialization_or_minor_1": "MAT 1322",
+    "specialization_or_minor_2": "MAT 1322"
+  },
+  {
+    "semester": "Winter",
+    "class_name": "MAT 1348",
+    "specialization_or_minor_1": "MAT 1348",
+    "specialization_or_minor_2": "MAT 1348"
+  },
+  {
+    "semester": "Fall",
+    "class_name": "CEG 2136",
+    "specialization_or_minor_1": "CEG 2136",
+    "specialization_or_minor_2": "CEG 2136"
+  },
+  {
+    "semester": "Fall",
+    "class_name": "CSI 2110",
+    "specialization_or_minor_1": "CSI 2110",
+    "specialization_or_minor_2": "CSI 2110"
+  },
+  {
+    "semester": "Fall",
+    "class_name": "ENG 1112",
+    "specialization_or_minor_1": "ENG 1112",
+    "specialization_or_minor_2": "ENG 1112"
+  },
+  {
+    "semester": "Fall",
+    "class_name": "SEG 2105",
+    "specialization_or_minor_1": "SEG 2105",
+    "specialization_or_minor_2": "SEG 2105"
+  },
+  {
+    "semester": "Winter",
+    "class_name": "CSI 2101",
+    "specialization_or_minor_1": "CSI 2101",
+    "specialization_or_minor_2": "CSI 2101"
+  },
+  {
+    "semester": "Winter",
+    "class_name": "CSI 2120",
+    "specialization_or_minor_1": "CSI 2120",
+    "specialization_or_minor_2": "CSI 2120"
+  },
+  {
+    "semester": "Winter",
+    "class_name": "CSI 2132",
+    "specialization_or_minor_1": "CSI 2132",
+    "specialization_or_minor_2": "CSI 2132"
+  },
+  {
+    "semester": "Winter",
+    "class_name": "MAT 2377",
+    "specialization_or_minor_1": "MAT 2377",
+    "specialization_or_minor_2": "MAT 2377"
+  },
+  {
+    "semester": "Winter",
+    "class_name": "CSI 2911",
+    "specialization_or_minor_1": "CSI 2911",
+    "specialization_or_minor_2": "CSI 2911"
+  },
+  {
+    "semester": "Fall",
+    "class_name": "CSI 3105",
+    "specialization_or_minor_1": "CSI 3105",
+    "specialization_or_minor_2": "CSI 3105"
+  },
+  {
+    "semester": "Fall",
+    "class_name": "CSI 3120",
+    "specialization_or_minor_1": "CSI 3120",
+    "specialization_or_minor_2": "CSI 3120"
+  },
+  {
+    "semester": "Fall",
+    "class_name": "Elective (CSI, SEG 3000 or 4000)",
+    "specialization_or_minor_1": "Elective (CSI, SEG 3000 or 4000)",
+    "specialization_or_minor_2": "Elective (CSI, SEG 3000 or 4000)"
+  },
+  {
+    "semester": "Winter",
+    "class_name": "CSI 3104",
+    "specialization_or_minor_1": "CSI 3104",
+    "specialization_or_minor_2": "CSI 3104"
+  },
+  {
+    "semester": "Winter",
+    "class_name": "CSI 3131",
+    "specialization_or_minor_1": "CSI 3131",
+    "specialization_or_minor_2": "CSI 3131"
+  },
+  {
+    "semester": "Winter",
+    "class_name": "CSI 3140",
+    "specialization_or_minor_1": "CSI 3140",
+    "specialization_or_minor_2": "CSI 3140"
+  },
+  {
+    "semester": "Winter",
+    "class_name": "CEG 3185",
+    "specialization_or_minor_1": "CEG 3185",
+    "specialization_or_minor_2": "CEG 3185"
+  },
+  {
+    "semester": "Fall",
+    "class_name": "Elective (CEG, ELG, SEG 3000)",
+    "specialization_or_minor_1": "Elective (CEG, ELG, SEG 3000)",
+    "specialization_or_minor_2": "Elective (CEG, ELG, SEG 3000)"
+  },
+  {
+    "semester": "Fall",
+    "class_name": "CSI 2372",
+    "specialization_or_minor_1": "CSI 2372",
+    "specialization_or_minor_2": "CSI 2372"
+  },
+  {
+    "semester": "Fall",
+    "class_name": "Elective (CSI 4000)",
+    "specialization_or_minor_1": "Elective (CSI 4000)",
+    "specialization_or_minor_2": "Elective (CSI 4000)"
+  },
+  {
+    "semester": "Fall",
+    "class_name": "Elective (CEG, ELG, SEG 3000 or CSI 4000)",
+    "specialization_or_minor_1": "Elective (CEG, ELG, SEG 3000 or CSI 4000)",
+    "specialization_or_minor_2": "Elective (CEG, ELG, SEG 3000 or CSI 4000)"
+  },
+  {
+    "semester": "Winter",
+    "class_name": "CSI 4900",
+    "specialization_or_minor_1": "CSI 4900",
+    "specialization_or_minor_2": "CSI 4900"
+  },
+  {
+    "semester": "Winter",
+    "class_name": "Free elective",
+    "specialization_or_minor_1": "Free elective",
+    "specialization_or_minor_2": "Free elective"
+  },
+  {
+    "semester": "Fall",
+    "class_name": "ADM 1100",
+    "specialization_or_minor_1": "ADM 1100",
+    "specialization_or_minor_2": null
+  },
+  {
+    "semester": "Winter",
+    "class_name": "ADM 2320",
+    "specialization_or_minor_1": "ADM 2320",
+    "specialization_or_minor_2": null
+  },
+  {
+    "semester": "Fall",
+    "class_name": "ADM 1340",
+    "specialization_or_minor_1": "ADM 1340",
+    "specialization_or_minor_2": null
+  },
+  {
+    "semester": "Winter",
+    "class_name": "ADM 3313",
+    "specialization_or_minor_1": "ADM 3313",
+    "specialization_or_minor_2": null
+  },
+  {
+    "semester": "Winter",
+    "class_name": "Elective (Choose a course from: ADM 1101, ADM 2336, ADM 3318, ADM 3319, ADM 3326, GNG 4120, GNG 4170 and PHI 2397)",
+    "specialization_or_minor_1": "Elective (Choose a course from: ADM 1101, ADM 2336, ADM 3318, ADM 3319, ADM 3326, GNG 4120, GNG 4170 and PHI 2397)",
+    "specialization_or_minor_2": null
+  },
+  {
+    "semester": "Fall",
+    "class_name": "MAT 2122",
+    "specialization_or_minor_1": "MAT 2122",
+    "specialization_or_minor_2": "MAT 2122"
+  },
+  {
+    "semester": "Fall",
+    "class_name": "MAT 2141",
+    "specialization_or_minor_1": "MAT 2141",
+    "specialization_or_minor_2": "MAT 2141"
+  },
+  {
+    "semester": "Fall",
+    "class_name": "MAT 2371",
+    "specialization_or_minor_1": "MAT 2371",
+    "specialization_or_minor_2": "MAT 2371"
+  },
+  {
+    "semester": "Winter",
+    "class_name": "MAT 2125",
+    "specialization_or_minor_1": "MAT 2125",
+    "specialization_or_minor_2": "MAT 2125"
+  },
+  {
+    "semester": "Winter",
+    "class_name": "MAT 2143",
+    "specialization_or_minor_1": "MAT 2143",
+    "specialization_or_minor_2": "MAT 2143"
+  },
+  {
+    "semester": "Fall",
+    "class_name": "MAT (2000) – list",
+    "specialization_or_minor_1": "MAT (2000) – list",
+    "specialization_or_minor_2": "MAT (2000) – list"
+  },
+  {
+    "semester": "Fall",
+    "class_name": "(MAT 3000) elective",
+    "specialization_or_minor_1": "(MAT 3000) elective",
+    "specialization_or_minor_2": "(MAT 3000) elective"
+  },
+  {
+    "semester": "Winter",
+    "class_name": "MAT 2375",
+    "specialization_or_minor_1": "MAT 2375",
+    "specialization_or_minor_2": "MAT 2375"
+  },
+  {
+    "semester": "Winter",
+    "class_name": "Elective (CSI, SEG 3000/4000)",
+    "specialization_or_minor_1": "Elective (CSI, SEG 3000/4000)",
+    "specialization_or_minor_2": "Elective (CSI, SEG 3000/4000)"
+  },
+  {
+    "semester": "Fall",
+    "class_name": "CSI/SEG (3000) – list",
+    "specialization_or_minor_1": "CSI/SEG (3000) – list",
+    "specialization_or_minor_2": "CSI/SEG (3000) – list"
+  },
+  {
+    "semester": "Fall",
+    "class_name": "Elective (MAT 3000)",
+    "specialization_or_minor_1": "Elective (MAT 3000)",
+    "specialization_or_minor_2": "Elective (MAT 3000)"
+  },
+  {
+    "semester": "Fall",
+    "class_name": "Elective (MAT 4000)",
+    "specialization_or_minor_1": "Elective (MAT 4000)",
+    "specialization_or_minor_2": "Elective (MAT 4000)"
+  },
+  {
+    "semester": "Fall",
+    "class_name": "MAT 1330",
+    "specialization_or_minor_1": "MAT 1330",
+    "specialization_or_minor_2": "MAT 1330"
+  },
+  {
+    "semester": "Fall",
+    "class_name": "Opt 1/ Opt 2",
+    "specialization_or_minor_1": "Opt 1/ Opt 2",
+    "specialization_or_minor_2": "Opt 1/ Opt 2"
+  },
+  {
+    "semester": "Winter",
+    "class_name": "MAT 1332",
+    "specialization_or_minor_1": "MAT 1332",
+    "specialization_or_minor_2": "MAT 1332"
+  },
+  {
+    "semester": "Winter",
+    "class_name": "MAT2377",
+    "specialization_or_minor_1": "MAT2377",
+    "specialization_or_minor_2": "MAT2377"
+  },
+  {
+    "semester": "Winter",
+    "class_name": "MAT3172",
+    "specialization_or_minor_1": "MAT3172",
+    "specialization_or_minor_2": "MAT3172"
+  },
+  {
+    "semester": "Winter",
+    "class_name": "MAT3375",
+    "specialization_or_minor_1": "MAT3375",
+    "specialization_or_minor_2": "MAT3375"
+  },
+  {
+    "semester": "Winter",
+    "class_name": "MAT3377",
+    "specialization_or_minor_1": "MAT3377",
+    "specialization_or_minor_2": "MAT3377"
+  },
+  {
+    "semester": "Fall",
+    "class_name": "6 units from the list of optional courses",
+    "specialization_or_minor_1": "6 units from the list of optional courses",
+    "specialization_or_minor_2": null
+  },
+  {
+    "semester": "Fall",
+    "class_name": "6 units in CSI or SEG 3000 level of optional courses",
+    "specialization_or_minor_1": "6 units in CSI or SEG 3000 level of optional courses",
+    "specialization_or_minor_2": null
+  },
+  {
+    "semester": "Winter",
+    "class_name": "CSI 4130",
+    "specialization_or_minor_1": "CSI 4130",
+    "specialization_or_minor_2": "CSI 4130"
+  },
+  {
+    "semester": "Winter",
+    "class_name": "CSI 3130",
+    "specialization_or_minor_1": "CSI 3130",
+    "specialization_or_minor_2": "CSI 3130"
+  },
+  {
+    "semester": "Winter",
+    "class_name": "SEG 3101",
+    "specialization_or_minor_1": "SEG 3101",
+    "specialization_or_minor_2": "SEG 3101"
+  },
+  {
+    "semester": "Winter",
+    "class_name": "SEG 3125",
+    "specialization_or_minor_1": "SEG 3125",
+    "specialization_or_minor_2": "SEG 3125"
+  },
+  {
+    "semester": "Fall",
+    "class_name": "3 units from CSI or SEG at the 2000, 3000, 4000 level",
+    "specialization_or_minor_1": "3 units from CSI or SEG at the 2000, 3000, 4000 level",
+    "specialization_or_minor_2": null
+  }
+]
