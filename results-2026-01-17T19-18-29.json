@@ -1,0 +1,107 @@
+[
+  {
+    "semester": "1st",
+    "bachelor_computer_science_classes": [
+      "ITI 1120 - Introduction to Computing I",
+      "MAT 1320 - Calculus I",
+      "MAT 1341 - Introduction to Linear Algebra",
+      "_Elective_",
+      "_Elective_"
+    ],
+    "specialization_or_minor_classes": [
+      "ITI 1100 - Digital Systems I",
+      "ITI 1121 - Introduction to Computing II",
+      "MAT 1322 - Calculus II",
+      "MAT 1348 - Discrete Mathematics for Computing",
+      "_Elective_"
+    ]
+  },
+  {
+    "semester": "2nd",
+    "bachelor_computer_science_classes": [
+      "CEG 2136 - Computer Architecture I",
+      "CSI 2110 - Data Structures and Algorithms",
+      "ENG 1112 - Technical Report Writing",
+      "SEG 2105 - Introduction to Software Engineering",
+      "_Elective_"
+    ],
+    "specialization_or_minor_classes": [
+      "CSI 2101 - Discrete Structures",
+      "CSI 2120 - Programming Paradigms",
+      "CSI 2132 - Databases I",
+      "MAT 2377 - Probability and Statistics for Engineers",
+      "CSI 2911 - Professional Practice in Computing"
+    ]
+  },
+  {
+    "semester": "3rd",
+    "bachelor_computer_science_classes": [
+      "CSI 3105 - Design and Analysis of Algorithms I",
+      "CSI 3120 - Programming Language Concepts",
+      "_Elective_(CSI, SEG 3000 or 4000)",
+      "_Elective_",
+      "_Elective_"
+    ],
+    "specialization_or_minor_classes": [
+      "CSI 3104 - Introduction to Formal Languages",
+      "CSI 3131 - Operating systems",
+      "CSI 3140 - WWW Structures, Techniques and Standards",
+      "CEG 3185 - Introduction to Data Communications and Networking",
+      "_Elective_"
+    ]
+  },
+  {
+    "semester": "4th",
+    "bachelor_computer_science_classes": [
+      "Either: _Elective_(CEG, ELG, SEG 3000) OR CSI 2372 - Advanced Programming Concepts with C++",
+      "_Elective_",
+      "_Elective_(CSI 4000)",
+      "_Elective_(CSI 4000)",
+      "_Elective_(CEG, ELG, SEG 3000 or CSI 4000)"
+    ],
+    "specialization_or_minor_classes": [
+      "CSI 4900 - Honours Project",
+      "_Elective_(CSI 4000)",
+      "_Elective_(CSI 4000)",
+      "_Elective_",
+      "_Free elective_"
+    ]
+  },
+  {
+    "semester": "Mandatory courses (30 units)",
+    "bachelor_computer_science_classes": [
+      "CSI 2110 - Data Structures and Algorithms",
+      "CSI 2120 - Programming Paradigms",
+      "ITI 1100 - Digital Systems I",
+      "ITI 1120 - Introduction to Computing I",
+      "ITI 1121 - Introduction to Computing II",
+      "MAT 1348 - Discrete Mathematics for Computing",
+      "6 units from the list of optional courses",
+      "6 units in CSI or SEG 3000 level of optional courses"
+    ],
+    "specialization_or_minor_classes": null
+  },
+  {
+    "semester": "Optional courses (12 units)",
+    "bachelor_computer_science_classes": [
+      "Developing software for the visual arts: MAT 1341 - Introduction to Linear Algebra, CSI 2101 - Discrete Structures, CSI 3105 - Design and Analysis of Algorithms I, CSI 4130 - Computer Graphics",
+      "Analysis and design in information systems: CSI 2132 - Databases I, CSI 3130 - Databases II, SEG 2105 - Introduction to Software Engineering, SEG 3101 - Software Requirements Analysis",
+      "Web-based systems and Web design: CSI 2132 - Databases I, CSI 3130 - Databases II, SEG 2105 - Introduction to Software Engineering, SEG 3125 - Analysis and Design of User Interfaces"
+    ],
+    "specialization_or_minor_classes": null
+  },
+  {
+    "semester": "Courses (30 units)",
+    "bachelor_computer_science_classes": [
+      "CSI 2101 - Discrete Structures",
+      "CSI 2110 - Data Structures and Algorithms",
+      "CSI 3105 - Design and Analysis of Algorithms I",
+      "ITI 1120 - Introduction to Computing I",
+      "Either: MAT 1320 - Calculus I OR MAT 1330 - Calculus for the Life Sciences I",
+      "MAT 1341 - Introduction to Linear Algebra",
+      "MAT 1348 - Discrete Mathematics for Computing",
+      "3 units from CSI or SEG at the 2000, 3000, 4000 level"
+    ],
+    "specialization_or_minor_classes": null
+  }
+]
