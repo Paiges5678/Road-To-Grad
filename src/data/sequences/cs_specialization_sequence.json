@@ -1,0 +1,47 @@
+{
+    "sequenceId": "cs_specialization",
+    "label": "Computer Science – Specialization / Minor Track",
+    "terms": [
+      {
+        "term": "1st",
+        "courses": [
+          "ITI 1100 - Digital Systems I",
+          "ITI 1121 - Introduction to Computing II",
+          "MAT 1322 - Calculus II",
+          "MAT 1348 - Discrete Mathematics for Computing",
+          "Elective"
+        ]
+      },
+      {
+        "term": "2nd",
+        "courses": [
+          "CSI 2101 - Discrete Structures",
+          "CSI 2120 - Programming Paradigms",
+          "CSI 2132 - Databases I",
+          "MAT 2377 - Probability and Statistics for Engineers",
+          "CSI 2911 - Professional Practice in Computing"
+        ]
+      },
+      {
+        "term": "3rd",
+        "courses": [
+          "CSI 3104 - Introduction to Formal Languages",
+          "CSI 3131 - Operating Systems",
+          "CSI 3140 - WWW Structures, Techniques and Standards",
+          "CEG 3185 - Data Communications and Networking",
+          "Elective"
+        ]
+      },
+      {
+        "term": "4th",
+        "courses": [
+          "CSI 4900 - Honours Project",
+          "Elective (CSI 4000)",
+          "Elective (CSI 4000)",
+          "Elective",
+          "Free Elective"
+        ]
+      }
+    ]
+  }
+  

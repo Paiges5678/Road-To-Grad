@@ -1,0 +1,88 @@
+{
+    "sequenceId": "cs_base",
+    "label": "Computer Science – Base Sequence",
+    "terms": [
+      {
+        "term": "1st",
+        "courses": [
+          "ITI 1120 - Introduction to Computing I",
+          "MAT 1320 - Calculus I",
+          "MAT 1341 - Introduction to Linear Algebra",
+          "Elective",
+          "Elective"
+        ]
+      },
+      {
+        "term": "2nd",
+        "courses": 
+            [
+                "ITI 1100 - Digital Systems I",
+                "ITI 1121 - Introduction to Computing II",
+                "MAT 1322 - Calculus II",
+                "MAT 1348 - Discrete Mathematics for Computing",
+                "Elective"
+              ]
+      },
+      {
+        "term": "3rd",
+        "courses": [
+          "CEG 2136 - Computer Architecture I",
+          "CSI 2110 - Data Structures and Algorithms",
+          "ENG 1112 - Technical Report Writing",
+          "SEG 2105 - Introduction to Software Engineering",
+          "Elective"
+        ]
+      },
+      {
+        "term": "4th",
+        "courses": [
+            "CSI 2101 - Discrete Structures",
+            "CSI 2120 - Programming Paradigms",
+            "CSI 2132 - Databases I",
+            "MAT 2377 - Probability and Statistics for Engineers",
+            "CSI 2911 - Professional Practice in Computing"
+          ]
+      },
+      {
+        "term": "5th",
+        "courses": [
+          "CSI 3105 - Design and Analysis of Algorithms I",
+          "CSI 3120 - Programming Language Concepts",
+          "Elective (CSI / SEG 3000 or 4000)",
+          "Elective",
+          "Elective"
+        ]
+      },
+      {
+        "term": "6th",
+        "courses": [
+            "CSI 3104 - Introduction to Formal Languages",
+            "CSI 3131 - Operating systems",
+            "CSI 3140 - WWW Structures, Techniques and Standards",
+            "CEG 3185 - Introduction to Data Communications and Networking",
+            "Elective"
+          ]
+      },
+      {
+        "term": "7th",
+        "courses": [
+          "Elective (CEG / ELG / SEG 3000) OR CSI 2372",
+          "Elective",
+          "Elective (CSI 4000)",
+          "Elective (CSI 4000)",
+          "Elective (CEG / ELG / SEG 3000 or CSI 4000)"
+        ]
+      },
+      {
+        "term": "8th",
+        "courses": [
+            "CSI 4900 - Honours Project",
+            "Elective (CSI 4000)",
+            "Elective (CSI 4000)",
+            "Elective",
+            "Free Elective"
+          ]
+      }
+    ]
+  }
+  

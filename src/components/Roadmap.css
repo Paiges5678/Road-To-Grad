@@ -1,0 +1,165 @@
+.roadmap {
+    position: relative;     /* allows the road to be positioned inside */
+    padding: 40px 0;        /* space above and below the journey */
+  }
+  
+  .road {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 50%;
+    width: 320px;                 /* road width */
+    transform: translateX(-50%);
+    pointer-events: none;
+  }
+  
+  .roadEdge {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 8px;
+    background: rgba(0,0,0,0.35);
+    border-radius: 999px;
+  }
+  
+  .roadEdge.left {
+    left: 0;
+  }
+  
+  .roadEdge.right {
+    right: 0;
+  }
+  
+  /* dashed line that looks "bigger" as it goes down */
+  .centerLine {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 50%;
+    width: 10px;                 /* base width */
+    transform: translateX(-50%) perspective(700px) rotateX(18deg);
+    transform-origin: top;
+    border-radius: 999px;
+  
+    background: repeating-linear-gradient(
+      to bottom,
+      rgba(255,255,255,0.95) 0 18px,
+      rgba(255,255,255,0) 18px 34px
+    );
+  }
+  
+  
+  
+  .stops {
+    position: relative; /* puts houses above the road */
+    display: grid;
+    gap: 70px;
+    padding: 0 60px;
+  }
+  
+  .stopRow {
+    display: flex;
+  }
+  
+  .stopRow.left {
+    justify-content: flex-start;
+    padding-right: 220px; 
+  }
+  
+  .stopRow.right {
+    justify-content: flex-end;
+    padding-left: 750px; 
+  }
+  
+  .house {
+    width: 350px;
+  }
+  
+  .house__roof {
+    width: 0;
+    height: 0;
+    border-left: 175px solid transparent;
+    border-right: 175px solid transparent;
+    border-bottom: 80px solid rgba(5, 212, 50, 0.5);
+  }
+  
+  .house__body {
+    min-height: 180px;
+    background: rgba(5, 212, 50, 0.5);
+    border: 5px solid #000;
+    padding: 16px;
+  }
+  .house--complete {
+    opacity: 0.6;
+    filter: grayscale(1);
+  }
+  
+  .house__header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .termCheck {
+    border: 1px solid rgba(0,0,0,0.2);
+    background: white;
+    border-radius: 999px;
+    padding: 6px 10px;
+    cursor: pointer;
+    font-size: 12px;
+  }
+  
+  .gradMsg {
+    margin-top: 10px;
+    font-weight: 600;
+  }
+  
+
+  .house--grad .house__roof {
+    border-bottom-color: rgba(255, 215, 0, 0.55); /* gold-ish */
+  }
+  .house--grad .house__body {
+    background: rgba(255, 215, 0, 0.18);
+  }
+  
+  .roadControls {
+    position: sticky;
+    top: 10px;
+    z-index: 10;
+    display: flex;
+    justify-content: flex-start;
+    padding-left: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .startBtn {
+    padding: 10px 14px;
+    border-radius: 999px;
+    border: 1px solid rgba(0,0,0,0.2);
+    background: white;
+    cursor: pointer;
+    font-weight: 700;
+  }
+  
+  .car {
+    position: fixed;
+    left: 50%;
+    top: 90px;
+    transform: translateX(-50%) translateX(30px);
+    font-size: 100px;
+    z-index: 9;
+    pointer-events: none;
+  }
+  
+  .activeStop .house {
+    outline: 3px solid rgba(255,255,255,0.9);
+    outline-offset: 6px;
+    transform: scale(1.02);
+    transition: transform 200ms ease;
+  }
+  
+  .house--complete {
+    opacity: 0.6;
+    filter: grayscale(1);
+  }
